@@ -29,7 +29,7 @@
     "passport-facebook-token": "^3.3.0",
     "random-hash": "^4.0.1",
     "random-key": "^0.3.2",
-    "validator": "^12.2.0",
+    "validator": "^13.7.0",
     "winston": "^3.2.1"
   },
   "devDependencies": {
